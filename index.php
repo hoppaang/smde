@@ -158,10 +158,11 @@
 <div class="parallax-counter-v1 parallaxBg" style="background-position: 50% 20px;">
 	<div class="container">
 		<div class="row margin-bottom-10">
+			<label><span>한눈에 보는</span> 새만금개발규모</label>
 			<div class="col-sm-3 col-xs-6">
 				<div class="counters">
-					<span class="counter">10629</span>
-					<h4>Users</h4>
+					<span class="counter">5,000</span> 억원
+					<h4>MOU규모</h4>
 				</div>
 			</div>
 			<div class="col-sm-3 col-xs-6">
