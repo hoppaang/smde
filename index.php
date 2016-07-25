@@ -93,27 +93,6 @@
 			data-ease="easeOutExpo"
 			>DOWNLOAD NOW</a>
 		</div>
-
-		<!-- <h3 class="ms-layer ms-promo-info color-light"  style="left:10px; top:170px"
-		data-effect="bottom(20)"
-		data-duration="2300"
-		data-delay="2300"
-		data-ease="easeOutExpo"
-		>AMAZING</h3>
-
-		<h3 class="ms-layer ms-promo-info-in color-light"  style="left:10px; top:245px"
-		data-effect="left(100)"
-		data-duration="3300"
-		data-delay="1900"
-		data-ease="easeOutExpo"
-		><span class="color-green">FEATURES</span></h3>
-
-		<p class="ms-layer ms-promo-sub ms-promo-sub-in color-light"  style="left:10px; top:360px"
-		data-effect="right(40)"
-		data-duration="2300"
-		data-delay="2300"
-		data-ease="easeOutExpo"
-		>YOUTUBE, VIMEO AND CUSTOM <br> IFRAME SUPPORTED</p> -->
 	</div>
 </div>
 <!-- end of masterslider -->
@@ -123,8 +102,11 @@
 <!--=== Service Blcoks ===-->
 <div class="container content-md">
 	<div class="text-center margin-bottom-50">
-		<h2 class="title-v2 title-center">OUR SERVICES</h2>
-		<p class="space-lg-hor">If you are going to use a <span class="color-green">passage of Lorem Ipsum</span>, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making <span class="color-green">this the first</span> true generator on the Internet.</p>
+		<h2 class="title-v2 title-center">SMDE의 3단계 개발계획</h2>
+		<p class="space-lg-hor">
+			SPC의 집약된 노하우를 바탕으로 새만금 개발단지 내에 볼거리, 먹거리, 놀거리, 쉴거리를 제공하여 국내외 관광객을 대상으로 하는 <span class="color-blue">국내 최대 해양레저 복합 단지로의 도약</span>을 목표로 하며,</br>
+			총 3단계, 6년간 개발계획을 수립하여 진행되며 각 단계별 내용은 다음과 같습니다.
+		</p>
 	</div>
 
 	<!-- Service Blcoks -->
