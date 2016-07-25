@@ -188,8 +188,21 @@
 </div>
 <!--=== End Carallax Counter v1 ===-->
 
+<div class="partner">
+	<h2 class="title-v2">협력업체</h2>
+	<ul>
+		<li><img src="<?=$imageurl?>img-partner1.png"/></li>
+		<li><img src="<?=$imageurl?>img-partner2.png"/></li>
+		<li><img src="<?=$imageurl?>img-partner3.png"/></li>
+		<li><img src="<?=$imageurl?>img-partner4.png"/></li>
+		<li><img src="<?=$imageurl?>img-partner5.png"/></li>
+		<li><img src="<?=$imageurl?>img-partner6.png"/></li>
+		<li><img src="<?=$imageurl?>img-partner7.png"/></li>
+	</ul>
+</div>
+
 		<!--=== Owl Clients v1 ===-->
-		<div class="container content-sm">
+		<!-- <div class="container content-sm">
 			<div class="owl-clients-v1">
 				<div class="item">
 					<img src="assets/img/clients4/1.png" alt="">
@@ -219,7 +232,7 @@
 					<img src="assets/img/clients4/9.png" alt="">
 				</div>
 			</div>
-		</div>
+		</div> -->
 		<!--=== End Owl Clients v1 ===-->
 
 	<!---footer include-->
