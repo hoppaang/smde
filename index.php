@@ -101,7 +101,7 @@
 
 <!--=== Service Blcoks ===-->
 <div class="container content-md">
-	<div class="text-center margin-bottom-50">
+	<div class="text-center margin-bottom-20">
 		<h2 class="title-v2 title-center">SMDE의 3단계 개발계획</h2>
 		<p class="space-lg-hor">
 			SPC의 집약된 노하우를 바탕으로 새만금 개발단지 내에 볼거리, 먹거리, 놀거리, 쉴거리를 제공하여 국내외 관광객을 대상으로 하는 <span class="color-blue">국내 최대 해양레저 복합 단지로의 도약</span>을 목표로 하며,</br>
