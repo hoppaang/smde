@@ -48,7 +48,7 @@
 		</div>
 
 		<div class="ms-slide" style="z-index: 13">
-			<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="assets/img/bg/img4.jpg" alt="">
+			<img src="<?=$assetsurl?>plugins/master-slider/masterslider/style/blank.gif" data-src="<?=$imageurl?>slider2.png" alt="">
 
 			<img class="ms-layer" src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="assets/img/mockup/hand-black-iphone-l.png" alt=""
 			style="bottom:-10px; left:15px; width:400px; height: auto;"
@@ -94,19 +94,6 @@
 			>DOWNLOAD NOW</a>
 		</div>
 
-		<div class="ms-slide" style="z-index: 12">
-			<img src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="assets/img/bg/img3.jpg" alt="">
-
-			<div class="ms-layer video-box" style="bottom:125px; right:15px; width:650px; height:370px;"
-			data-type="video"
-			data-effect="rotate3dright(0,30,0,100,r)"
-			data-duration="1500"
-			data-ease="easeOutQuad"
-			>
-			<img class="ms-img-bordered" src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="assets/img/main/img20.jpg" alt="">
-			<iframe src="http://player.vimeo.com/video/70528799" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
-		</div>
-
 		<h3 class="ms-layer ms-promo-info color-light"  style="left:10px; top:170px"
 		data-effect="bottom(20)"
 		data-duration="2300"
@@ -120,13 +107,6 @@
 		data-delay="1900"
 		data-ease="easeOutExpo"
 		><span class="color-green">FEATURES</span></h3>
-
-		<h3 class="ms-layer normal-title color-light"  style="left:10px; top:312px"
-		data-effect="bottom(20)"
-		data-duration="2300"
-		data-delay="2000"
-		data-ease="easeOutExpo"
-		>UNIFY BOOTSTRAP TEMPLATE</h3>
 
 		<p class="ms-layer ms-promo-sub ms-promo-sub-in color-light"  style="left:10px; top:360px"
 		data-effect="right(40)"
