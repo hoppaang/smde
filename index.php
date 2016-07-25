@@ -189,7 +189,7 @@
 <!--=== End Carallax Counter v1 ===-->
 
 <div class="container content-md">
-	<h2 class="title-v2">협력업체</h2>
+	<h2>협력업체</h2>
 	<ul class="partners">
 		<li><img src="<?=$imageurl?>img-partner1.png"/></li>
 		<li><img src="<?=$imageurl?>img-partner2.png"/></li>
