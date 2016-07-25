@@ -158,29 +158,29 @@
 <div class="parallax-counter-v1 parallaxBg" style="background-position: 50% 20px;">
 	<div class="container">
 		<div class="row margin-bottom-10">
-			<label><span>한눈에 보는</span> 새만금개발규모</label>
+			<label><span class="color-blue">한눈에 보는</span> 새만금개발규모</label>
 			<div class="col-sm-3 col-xs-6">
 				<div class="counters">
-					<span class="counter">5,000</span> 억원
+					<span class="counter">5,000</span>억원
 					<h4>MOU규모</h4>
 				</div>
 			</div>
 			<div class="col-sm-3 col-xs-6">
 				<div class="counters">
-					<span class="counter">277</span>
-					<h4>Projects</h4>
+					<span class="counter">186,000</span>평
+					<h4>관광레저용지</h4>
 				</div>
 			</div>
 			<div class="col-sm-3 col-xs-6">
 				<div class="counters">
-					<span class="counter">78</span>
-					<h4>Team Members</h4>
+					<span class="counter">137,900</span>평
+					<h4>상가시설</h4>
 				</div>
 			</div>
 			<div class="col-sm-3 col-xs-6">
 				<div class="counters">
-					<span class="counter">109</span>
-					<h4>Awards</h4>
+					<span class="counter">183,500</span>평
+					<h4>주거시설</h4>
 				</div>
 			</div>
 		</div>

@@ -20,3 +20,6 @@
 .main .service-icon.column3{background-position:50% -100px}
 .main .service-block-default{padding:20px 15px;min-height:350px}
 .main .parallax-counter-v1{background:#f7f7f7}
+.main .parallax-counter-v1 label{display:block;color:#585858;font-size:14px}
+.main .parallax-counter-v1 .counters{border:none;font-size:28px}
+.main .parallax-counter-v1 h4{font-size:18px;color:#666}
