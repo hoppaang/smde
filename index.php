@@ -22,14 +22,14 @@
 			data-duration="2000"
 			data-delay="1000"
 			data-ease="easeOutExpo"
-			><span class="color-green">Unify</span> Template</div>
+			>SMDE</div>
 
 			<div class="ms-layer ms-promo-sub color-light" style="left:15px; top:310px"
 			data-effect="bottom(40)"
 			data-duration="2000"
 			data-delay="1300"
 			data-ease="easeOutExpo"
-			>We are creative technology company providing <br> key digital services on web and mobile.</div>
+			>Ship Marina Development Energy<br> key digital services on web and mobile.</div>
 
 
 			<a class="ms-layer btn-u" style="left:15px; top:390px" href="#"
@@ -50,7 +50,7 @@
 		<div class="ms-slide" style="z-index: 13">
 			<img src="<?=$assetsurl?>plugins/master-slider/masterslider/style/blank.gif" data-src="<?=$imageurl?>slider2.png" alt="">
 
-			<img class="ms-layer" src="assets/plugins/master-slider/masterslider/style/blank.gif" data-src="assets/img/mockup/hand-black-iphone-l.png" alt=""
+			<img class="ms-layer" src="<?=$assetsurl?>plugins/master-slider/masterslider/style/blank.gif" data-src="<?=$imageurl?>slider2.png" alt=""
 			style="bottom:-10px; left:15px; width:400px; height: auto;"
 			data-effect="bottom(100)"
 			data-duration="2000"
