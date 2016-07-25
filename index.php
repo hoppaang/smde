@@ -29,7 +29,7 @@
 			data-duration="2000"
 			data-delay="1300"
 			data-ease="easeOutExpo"
-			>Ship Marina Development Energy<br> key digital services on web and mobile.</div>
+			>Ship Marina Development Energy.</div>
 
 
 			<a class="ms-layer btn-u" style="left:15px; top:390px" href="#"
