@@ -8,7 +8,7 @@
 .footer{margin-top:20px;margin-bottom:20px;text-align:center;font-size:11px;}
 .ms-slide,.ms-view{width:1120px !important;height:350px !important}
 .ms-slide-layers{left:30px !important}
-.ms-anim-layers .ms-layer:first-child{top:150px;font-size:30px}
-.ms-anim-layers .ms-layer:nth-child(2){top:190px;font-size:60px}
-.ms-anim-layers .ms-layer:nth-child(3){top:260px;font-size:18px}
-.ms-layer.btn-u{top:300px}
+.ms-anim-layers .ms-layer:first-child{top:150px !important;font-size:30px !important}
+.ms-anim-layers .ms-layer:nth-child(2){top:190px !important;font-size:60px !important}
+.ms-anim-layers .ms-layer:nth-child(3){top:260px !important;font-size:18px !important}
+.ms-layer.btn-u{top:300px !important}
