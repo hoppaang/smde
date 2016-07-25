@@ -111,7 +111,7 @@
 
 	<!-- Service Blcoks -->
 	<div class="row service-box-v1">
-		<div class="col-md-4 col-sm-6 md-margin-bottom-40">
+		<div class="col-md-4 col-sm-6 md-margin-bottom-10">
 			<div class="service-block service-block-default no-margin-bottom">
 				<span class="service-icon column1"></span>
 				<h2 class="heading-sm">1차 관광레저 부지조성 [2년간계획]</h2>

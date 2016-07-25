@@ -26,6 +26,6 @@
 .main .parallax-counter-v1 .col-sm-3:last-child .counters{border-right:0px}
 .main .parallax-counter-v1 h4{margin-bottom:0;font-size:18px;color:#666}
 .main .partners{list-style:none;padding:0}
-.main .partners li{border:1px solid #ccc;width:160px;margin:0 5px 7px 0;padding:5px}
+.main .partners li{border:1px solid #ccc;width:160px;margin:0 5px 7px 0;padding:5px;float:left}
 .main .partners li:last-child{margin-right:0}
 .main .partners li img{width:100%}
