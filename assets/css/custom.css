@@ -14,4 +14,8 @@
 .ms-layer.btn-u{top:280px !important;background-color:#333}
 .main .space-lg-hor{padding-left:30px;padding-right:30px;font-size:14px;line-height:2}
 
-.main .service-icon{background:url(<?=$imageurl?>icon-main-service.png) no-repeat;width:40px;height:40px;display:block}
+.main .service-icon{background:url(../images/icon-main-service.png) no-repeat;width:40px;height:40px;display:block}
+.main .service-icon.column1{background-position:50%          0}
+.main .service-icon.column2{background-position:50%   -50px}
+.main .service-icon.column3{background-position:50% -100px}
+.main .service-block-default{padding:20px 15px}
