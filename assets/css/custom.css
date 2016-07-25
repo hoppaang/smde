@@ -9,6 +9,6 @@
 .ms-slide,.ms-view{width:1120px !important;height:350px !important}
 .ms-slide-layers{left:30px !important}
 .ms-anim-layers .ms-layer:first-child{top:150px !important;font-size:30px !important}
-.ms-anim-layers .ms-layer:nth-child(2){top:190px !important;font-size:60px !important}
-.ms-anim-layers .ms-layer:nth-child(3){top:260px !important;font-size:18px !important}
-.ms-layer.btn-u{top:300px !important}
+.ms-anim-layers .ms-layer:nth-child(2){top:175px !important;font-size:60px !important}
+.ms-anim-layers .ms-layer:nth-child(3){top:250px !important;font-size:18px !important}
+.ms-layer.btn-u{top:300px !important;background-color:#0166a0}

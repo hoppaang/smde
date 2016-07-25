@@ -37,14 +37,14 @@
 			data-duration="2000"
 			data-delay="1300"
 			data-ease="easeOutExpo"
-			>LEARN MORE</a>
+			>사업추진 계획</a>
 
 			<a class="ms-layer btn-u btn-u-dark" style="left:150px; top:390px" href="#"
 			data-effect="bottom(40)"
 			data-duration="2000"
 			data-delay="1300"
 			data-ease="easeOutExpo"
-			>ABOUT US</a>
+			>마리나 개발</a>
 		</div>
 
 		<div class="ms-slide" style="z-index: 13">
@@ -94,7 +94,7 @@
 			>DOWNLOAD NOW</a>
 		</div>
 
-		<h3 class="ms-layer ms-promo-info color-light"  style="left:10px; top:170px"
+		<!-- <h3 class="ms-layer ms-promo-info color-light"  style="left:10px; top:170px"
 		data-effect="bottom(20)"
 		data-duration="2300"
 		data-delay="2300"
@@ -113,7 +113,7 @@
 		data-duration="2300"
 		data-delay="2300"
 		data-ease="easeOutExpo"
-		>YOUTUBE, VIMEO AND CUSTOM <br> IFRAME SUPPORTED</p>
+		>YOUTUBE, VIMEO AND CUSTOM <br> IFRAME SUPPORTED</p> -->
 	</div>
 </div>
 <!-- end of masterslider -->
