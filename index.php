@@ -188,16 +188,16 @@
 </div>
 <!--=== End Carallax Counter v1 ===-->
 
-<div class="partner">
+<div class="container content-md">
 	<h2 class="title-v2">협력업체</h2>
 	<ul>
-		<li><img src="<?=$imageurl?>img-partner1.png"/></li>
-		<li><img src="<?=$imageurl?>img-partner2.png"/></li>
-		<li><img src="<?=$imageurl?>img-partner3.png"/></li>
-		<li><img src="<?=$imageurl?>img-partner4.png"/></li>
-		<li><img src="<?=$imageurl?>img-partner5.png"/></li>
-		<li><img src="<?=$imageurl?>img-partner6.png"/></li>
-		<li><img src="<?=$imageurl?>img-partner7.png"/></li>
+		<li class="col-sm-3 col-xs-6"><img src="<?=$imageurl?>img-partner1.png"/></li>
+		<li class="col-sm-3 col-xs-6"><img src="<?=$imageurl?>img-partner2.png"/></li>
+		<li class="col-sm-3 col-xs-6"><img src="<?=$imageurl?>img-partner3.png"/></li>
+		<li class="col-sm-3 col-xs-6"><img src="<?=$imageurl?>img-partner4.png"/></li>
+		<li class="col-sm-3 col-xs-6"><img src="<?=$imageurl?>img-partner5.png"/></li>
+		<li class="col-sm-3 col-xs-6"><img src="<?=$imageurl?>img-partner6.png"/></li>
+		<li class="col-sm-3 col-xs-6"><img src="<?=$imageurl?>img-partner7.png"/></li>
 	</ul>
 </div>
 
