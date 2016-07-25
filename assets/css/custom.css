@@ -8,8 +8,10 @@
 .footer{margin-top:20px;margin-bottom:20px;text-align:center;font-size:11px;}
 .ms-slide,.ms-view{width:1120px !important;height:350px !important}
 .ms-slide-layers{left:30px !important}
-.ms-anim-layers .ms-layer:first-child{top:150px !important;font-size:30px !important}
+.ms-anim-layers .ms-layer:first-child   {top:150px !important;font-size:30px !important}
 .ms-anim-layers .ms-layer:nth-child(2){top:175px !important;font-size:60px !important}
 .ms-anim-layers .ms-layer:nth-child(3){top:250px !important;font-size:18px !important}
 .ms-layer.btn-u{top:280px !important;background-color:#333}
 .main .space-lg-hor{padding-left:30px;padding-right:30px;font-size:14px;line-height:2}
+
+.main .service-icon{background:url(<?=$imageurl?>icon-main-service.png) no-repeat;width:40px;height:40px;display:block}

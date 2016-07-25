@@ -113,46 +113,39 @@
 	<div class="row service-box-v1">
 		<div class="col-md-4 col-sm-6 md-margin-bottom-40">
 			<div class="service-block service-block-default no-margin-bottom">
-				<i class="icon-lg rounded-x icon icon-badge"></i>
-				<h2 class="heading-sm">Web Design &amp; Development</h2>
-				<p>Donec id elit non mi porta gravida at eget metus id elit mi egetine. Fusce dapibus</p>
+				<span class="service-icon column1"></span>
+				<h2 class="heading-sm">1차 관광레저 부지조성 [2년간계획] </h2>
+				<p>새만금개발 당위성 설명</p>
 				<ul class="list-unstyled">
-					<li>Responsive Web Desgin</li>
-					<li>E-commerce</li>
-					<li>App &amp; Icon Design</li>
-					<li>Logo &amp; Brand Design</li>
-					<li>Mobile Development</li>
-					<li>UI/UX Design</li>
+					<li>18.6만평 관광레저용 단지 조성</li>
+					<li>16.48만평 4호방조재 시점 단지 조성</li>
+					<li>18.6만평 관광레저용 단지 조성</li>
+					<li>16.48만평 4호방조재 시점 단지 조성</li>
 				</ul>
 			</div>
 		</div>
 		<div class="col-md-4 col-sm-6 md-margin-bottom-40">
 			<div class="service-block service-block-default no-margin-bottom">
-				<i class="icon-lg rounded-x icon-line icon-trophy"></i>
-				<h2 class="heading-sm">Marketing &amp; Cunsulting</h2>
-				<p>Donec id elit non mi porta gravida at eget metus id elit mi egetine usce dapibus elit nondapibus</p>
+				<span class="service-icon column2"></span>
+				<h2 class="heading-sm">2차 기업투자유치 및 시설활성화 [1년간계획]</h2>
+				<p>계류시설활성화</p>
 				<ul class="list-unstyled">
-					<li>Analysis &amp; Consulting</li>
-					<li>Email Marketing</li>
-					<li>App &amp; Icon Design</li>
-					<li>Responsive Web Desgin</li>
-					<li>Social Networking</li>
-					<li>Documentation</li>
+					<li>외국기업투자유치 - wevio</li>
+					<li>관광사업 - 인터파크비즈마켓</li>
+					<li>국내관광투자유치 - SMDE</li>
 				</ul>
 			</div>
 		</div>
 		<div class="col-md-4 col-sm-12">
 			<div class="service-block service-block-default no-margin-bottom">
-				<i class="icon-lg rounded-x icon-line icon-layers"></i>
-				<h2 class="heading-sm">SEO &amp; Advertising</h2>
-				<p>Donec id elit non mi porta gravida at eget metus id elit mi egetine. Fusce dapibus</p>
+				<span class="service-icon column3"></span>
+				<h2 class="heading-sm">3차 부동산조성 및 시설운영투자 [3년간계획]</h2>
+				<p>리조트 및 분양호텔건축</p>
 				<ul class="list-unstyled">
-					<li>Display Advertising</li>
-					<li>App &amp; Icon Design</li>
-					<li>Analysis &amp; Consulting</li>
-					<li>Google AdSense</li>
-					<li>Social Media</li>
-					<li>Google/Bing Analysis</li>
+					<li>KCI한국해외기술공사</li>
+					<li>ES개발</li>
+					<li>이도건설</li>
+					<li>통해</li>
 				</ul>
 			</div>
 		</div>

@@ -86,9 +86,10 @@
 								<li class="dropdown">
 									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">사업소개</a>
 									<ul class="dropdown-menu">
-										<li class="dropdown-submenu"><a href="javascript:void(0);">새만금 마리나 소개</a></li>
-										<li class="dropdown-submenu"><a href="javascript:void(0);">마리나 컨설팅</a></li>
-										<li class="dropdown-submenu"><a href="javascript:void(0);">제품소개</a></li>
+										<li class="dropdown-submenu"><a href="javascript:void(0);">사업추진계획</a></li>
+										<li class="dropdown-submenu"><a href="javascript:void(0);">개발컨셉 및 테마</a></li>
+										<li class="dropdown-submenu"><a href="javascript:void(0);">마리나 개발</a></li>
+										<li class="dropdown-submenu"><a href="javascript:void(0);">친환경 에너지 개발</a></li>
 									</ul>
 								</li>
 
