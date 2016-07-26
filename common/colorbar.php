@@ -1,4 +1,4 @@
-<div class="colorbar">
+<div class="container content-md colorbar">
 	<?php if($menucode == "company"): ?>
 		<div>
 			<h1>SMDE 회사소개</h1>
