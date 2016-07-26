@@ -11,7 +11,7 @@
 
 	<!-- subcontent begin -->
 	<div class="subcontent">
-		<img src="<?=$imageurl?>img-biz2-1.png">
+		<img src="<?=$imageurl?>img-biz2-1.png" class="margin-bottom-30">
 		<img src="<?=$imageurl?>img-biz2-2.png">
 	</div>
 	<!-- subcontent end -->
