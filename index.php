@@ -167,19 +167,19 @@
 			</div>
 			<div class="col-sm-3 col-xs-6">
 				<div class="counters">
-					<span class="counter">186,000</span>평
+					<span class="counter">30,298</span>평
 					<h4>관광레저용지</h4>
 				</div>
 			</div>
 			<div class="col-sm-3 col-xs-6">
 				<div class="counters">
-					<span class="counter">137,900</span>평
+					<span class="counter">63,145</span>평
 					<h4>상가시설</h4>
 				</div>
 			</div>
 			<div class="col-sm-3 col-xs-6">
 				<div class="counters">
-					<span class="counter">183,500</span>평
+					<span class="counter">84,383</span>평
 					<h4>주거시설</h4>
 				</div>
 			</div>
@@ -200,40 +200,6 @@
 		<li><img src="<?=$imageurl?>img-partner7.png"/></li>
 	</ul>
 </div>
-
-		<!--=== Owl Clients v1 ===-->
-		<!-- <div class="container content-sm">
-			<div class="owl-clients-v1">
-				<div class="item">
-					<img src="assets/img/clients4/1.png" alt="">
-				</div>
-				<div class="item">
-					<img src="assets/img/clients4/2.png" alt="">
-				</div>
-				<div class="item">
-					<img src="assets/img/clients4/3.png" alt="">
-				</div>
-				<div class="item">
-					<img src="assets/img/clients4/4.png" alt="">
-				</div>
-				<div class="item">
-					<img src="assets/img/clients4/5.png" alt="">
-				</div>
-				<div class="item">
-					<img src="assets/img/clients4/6.png" alt="">
-				</div>
-				<div class="item">
-					<img src="assets/img/clients4/7.png" alt="">
-				</div>
-				<div class="item">
-					<img src="assets/img/clients4/8.png" alt="">
-				</div>
-				<div class="item">
-					<img src="assets/img/clients4/9.png" alt="">
-				</div>
-			</div>
-		</div> -->
-		<!--=== End Owl Clients v1 ===-->
 
 	<!---footer include-->
 	<?php virtual('common/footer.php');?>

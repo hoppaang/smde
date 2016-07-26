@@ -76,7 +76,7 @@
 								<li class="dropdown">
 									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">회사소개</a>
 									<ul class="dropdown-menu">
-										<li class="dropdown-submenu"><a href="javascript:void(0);">대표인사말</a></li>
+										<li class="dropdown-submenu"><a href="<?=$baseurl?>company/ceo.php">대표인사말</a></li>
 										<li class="dropdown-submenu"><a href="javascript:void(0);">연혁</a></li>
 										<li class="dropdown-submenu"><a href="javascript:void(0);">조직도</a></li>
 										<li class="dropdown-submenu"><a href="javascript:void(0);">고객사</a></li>
