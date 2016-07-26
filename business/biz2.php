@@ -11,7 +11,8 @@
 
 	<!-- subcontent begin -->
 	<div class="subcontent">
-		개발컨셉 및 테마
+		<img src="<?=$imageurl?>img-biz2-1.png">
+		<img src="<?=$imageurl?>img-biz2-2.png">
 	</div>
 	<!-- subcontent end -->
 </div>
