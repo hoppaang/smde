@@ -77,34 +77,34 @@
 									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">회사소개</a>
 									<ul class="dropdown-menu">
 										<li class="dropdown-submenu"><a href="<?=$baseurl?>company/ceo.php">대표인사말</a></li>
-										<li class="dropdown-submenu"><a href="javascript:void(0);">연혁</a></li>
-										<li class="dropdown-submenu"><a href="javascript:void(0);">조직도</a></li>
-										<li class="dropdown-submenu"><a href="javascript:void(0);">고객사</a></li>
+										<li class="dropdown-submenu"><a href="<?=$baseurl?>company/history.php">연혁</a></li>
+										<li class="dropdown-submenu"><a href="<?=$baseurl?>company/org.php">조직도</a></li>
+										<li class="dropdown-submenu"><a href="<?=$baseurl?>company/partner.php">고객사</a></li>
 									</ul>
 								</li>
 
 								<li class="dropdown">
 									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">사업소개</a>
 									<ul class="dropdown-menu">
-										<li class="dropdown-submenu"><a href="javascript:void(0);">사업추진계획</a></li>
-										<li class="dropdown-submenu"><a href="javascript:void(0);">개발컨셉 및 테마</a></li>
-										<li class="dropdown-submenu"><a href="javascript:void(0);">마리나 개발</a></li>
-										<li class="dropdown-submenu"><a href="javascript:void(0);">친환경 에너지 개발</a></li>
+										<li class="dropdown-submenu"><a href="<?=$baseurl?>business/biz1.php">사업추진계획</a></li>
+										<li class="dropdown-submenu"><a href="<?=$baseurl?>business/biz2.php">개발컨셉 및 테마</a></li>
+										<li class="dropdown-submenu"><a href="<?=$baseurl?>business/biz3.php">마리나 개발</a></li>
+										<li class="dropdown-submenu"><a href="<?=$baseurl?>business/biz4.php">친환경 에너지 개발</a></li>
 									</ul>
 								</li>
 
 								<li class="dropdown">
 									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">고객지원</a>
 									<ul class="dropdown-menu">
-										<li class="dropdown-submenu"><a href="javascript:void(0);">뉴스&공지</a></li>
-										<li class="dropdown-submenu"><a href="javascript:void(0);">오시는길</a></li>
+										<li class="dropdown-submenu"><a href="<?=$baseurl?>support/news.php">뉴스&공지</a></li>
+										<li class="dropdown-submenu"><a href="<?=$baseurl?>support/location.php">오시는길</a></li>
 									</ul>
 								</li>
 
 								<li class="dropdown">
 									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">온라인문의</a>
 									<ul class="dropdown-menu">
-										<li class="dropdown-submenu"><a href="javascript:void(0);">온라인문의</a></li>
+										<li class="dropdown-submenu"><a href="<?=$baseurl?>online/online.php">온라인문의</a></li>
 									</ul>
 								</li>
 							</ul>
