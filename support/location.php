@@ -30,9 +30,7 @@
 		<!-- Business Hours -->
 		<div class="headline"><h2>Business Hours</h2></div>
 		<ul class="list-unstyled margin-bottom-30">
-			<li><strong>월~금요일:</strong> 9am ~ 6pm</li>
-			<li><strong>토요일:</strong> 9am ~ 1pm</li>
-			<li><strong>일요일/공휴일:</strong> 휴무</li>
+			<li><strong>월~금요일:</strong> 9am ~ 6pm / <strong>토요일:</strong> 9am ~ 1pm / <strong>일요일/공휴일:</strong> 휴무</li>
 		</ul>
 	</div>
 	<!-- subcontent end -->
