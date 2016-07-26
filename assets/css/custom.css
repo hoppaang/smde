@@ -40,3 +40,7 @@
 .submenu{width:180px;float:left;margin-right:20px}
 .submenu a{width:100%;display:block;border-bottom:1px solid #cfcfcf;padding:9px 0 5px 0;font-size:14px;color:#585858;text-indent:7px}
 .submenu a:hover,.submenu a.active{text-decoration:none;border-color:#029ddf;font-weight:bold;color:#096ea5}
+
+.online .col-md-9{padding-left:0}
+
+.who li i{color:#008bcc}
