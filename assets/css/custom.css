@@ -32,8 +32,11 @@
 .main .partners li img{width:100%}
 .colorbar.content-md{padding:0 0 25px 0}
 .company .colorbar div{background:url(../images/subimg-company.png) no-repeat;height:140px;}
+.biz .colorbar div         {background:url(../images/subimg-company.png) no-repeat;height:140px;}
+.support .colorbar div {background:url(../images/subimg-company.png) no-repeat;height:140px;}
+.online .colorbar div    {background:url(../images/subimg-company.png) no-repeat;height:140px;}
 .colorbar h1{margin:0;padding:80px 0 3px 20px;color:#fff}
 .colorbar span{padding:3px 10px 5px 20px;background-color:rgba(0, 0, 0, 0.5);color:#fff}
 .submenu{width:180px;float:left;margin-right:20px}
 .submenu a{width:100%;display:block;border-bottom:1px solid #cfcfcf;padding:9px 0 5px 0;font-size:14px;color:#585858;text-indent:7px}
-.submenu a:hover,.submenu a.active{text-decoration:none;border-color:#029ddf;font-weight:bold}
+.submenu a:hover,.submenu a.active{text-decoration:none;border-color:#029ddf;font-weight:bold;color:#096ea5}
