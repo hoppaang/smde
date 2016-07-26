@@ -58,7 +58,7 @@
 
 						<!-- Navbar Brand -->
 						<div class="navbar-brand">
-							<a href="index.html">
+							<a href="<?=$baseurl?>">
 								<img class="shrink-logo" src="<?=$imageurl?>logo.png" alt="Logo">
 							</a>
 						</div>
@@ -70,7 +70,7 @@
 						<div class="menu-container">
 							<ul class="nav navbar-nav">
 								<li class="dropdown active">
-									<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Home</a>
+									<a href="<?=$baseurl?>" class="dropdown-toggle" data-toggle="dropdown">Home</a>
 								</li>
 
 								<li class="dropdown">

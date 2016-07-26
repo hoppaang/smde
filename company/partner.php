@@ -11,7 +11,11 @@
 
 	<!-- subcontent begin -->
 	<div class="subcontent">
-		partner
+		<div class="partnet-item">
+			<img src="<?=$imageurl?>img-partner1.png"/>
+			<label>국제자산신탁(주)</label>
+			<a href="https://www.kukjetrust.com/" target="_blank">www.kukjetrust.com</a>
+		</div>
 	</div>
 	<!-- subcontent end -->
 </div>
