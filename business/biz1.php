@@ -11,7 +11,7 @@
 
 	<!-- subcontent begin -->
 	<div class="subcontent">
-		사업추진계획
+		<img src="<?=$imageurl?>img-biz1.png">
 	</div>
 	<!-- subcontent end -->
 </div>
