@@ -16,9 +16,15 @@
 			<ul>
 				<li>
 					<span class="monthday">04.</span>
-					- 투자유치국장 간담회 (새만금+기업7개 사)</br>
-					- 인터파크 비즈마켓 참여 확약서 제출</br>
-					- 조감도용역 계약/진행 중</br>
+					- 투자유치국장 간담회 (새만금+기업7개 사)
+				</li>
+				<li>
+					<span class="monthday"></span>
+					- 인터파크 비즈마켓 참여 확약서 제출
+				</li>
+				<li>
+					<span class="monthday"></span>
+					- 조감도용역 계약/진행 중
 				</li>
 				<li>
 					<span class="monthday">02.</span>
@@ -63,8 +69,8 @@
 		<div class="year y2014">
 			<ul>
 				<li>
-					<span class="monthday">11. ~ 2015.11</span>
-					- 참여사 통합운영위원회 설립, 사업추진 회의 (총 7회)
+					<span class="monthday">11.</span>
+					- 참여사 통합운영위원회 설립, 사업추진 회의 ( ~ 2015.11, 총 7회)
 				</li>
 				<li>
 					<span class="monthday">10.23</span>
