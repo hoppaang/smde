@@ -29,4 +29,9 @@
 .main .partners li{border:1px solid #ccc;width:160px;margin:0 5px 7px 0;padding:5px;float:left}
 .main .partners li:last-child{margin-right:0}
 .main .partners li img{width:100%}
+.colorbar.content-md{padding:0 0 25px 0}
 .company .colorbar div{background:url(../images/subimg-company.png) no-repeat;height:140px;}
+.colorbar h1{margin:0;padding:80px 0 3px 20px;color:#fff}
+.colorbar span{padding:3px 10px 5px 20px;background-color:rgba(0, 0, 0, 0.5);color:#fff}
+.submenu{width:180px;float:left;margin-right:20px}
+.submenu a{width:100%;border-bottom:1px solid #ccc;padding:9px 0 5px 0;font-size:14px;color:#585858}
