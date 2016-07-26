@@ -10,8 +10,8 @@
 	<!-- submenu incloud --><?php virtual('../common/submenu.php');?>
 
 	<!-- subcontent begin -->
-	<div class="subcontent">
-		org
+	<div class="subcontent org">
+		<img src="<?=$imageurl?>img-org.png">
 	</div>
 	<!-- subcontent end -->
 </div>
