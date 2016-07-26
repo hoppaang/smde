@@ -5,6 +5,7 @@
 .header-v6 .navbar-nav > li > a{font-size:15px;font-weight:bold}
 .ms-view{height:350px !important;}
 .content-md,.parallax-counter-v1{padding:25px 0;}
+.colorbar+.container{padding-left:0}
 .footer{margin-top:20px;margin-bottom:20px;text-align:center;font-size:11px;}
 .ms-slide,.ms-view{width:1170px !important;height:350px !important}
 .ms-slide-layers{left:30px !important}
@@ -34,4 +35,4 @@
 .colorbar h1{margin:0;padding:80px 0 3px 20px;color:#fff}
 .colorbar span{padding:3px 10px 5px 20px;background-color:rgba(0, 0, 0, 0.5);color:#fff}
 .submenu{width:180px;float:left;margin-right:20px}
-.submenu a{width:100%;border-bottom:1px solid #ccc;padding:9px 0 5px 0;font-size:14px;color:#585858}
+.submenu a{width:100%;display:block;border-bottom:1px solid #ccc;padding:9px 0 5px 0;font-size:14px;color:#585858;text-indent:7px}

@@ -1,14 +1,14 @@
 <?php
-	$menucode = 'company'; 
-	$submenucode = 'ceo'; 
+	$menucode = 'company';
+	$submenucode = 'ceo';
 	require('../common/config.php') ;
 	virtual('../common/basetag.php');
 ?>
 <!-- top color bar --><?php virtual('../common/colorbar.php');?>
 
-<div class="container content-sm">
+<div class="container">
 	<!-- submenu incloud --><?php virtual('../common/submenu.php');?>
-	
+
 	<!-- subcontent begin -->
 	<div class="subcontent">
 		ceo
