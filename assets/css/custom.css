@@ -50,10 +50,10 @@
 .ceo.subcontent div strong{font-size:18px;font-weight:bold;color:#333}
 .history .year{background:url(../images/bg-history.png) 0 10px no-repeat;margin-bottom:30px}
 .history .year.y2014{background-position:0 10px}
-.history .year.y2015{background-position:0 -90px}
-.history .year.y2016{background-position:0 -190px}
-.history .year.y2017{background-position:0 -290px}
-.history .year ul{margin-top:40px}
+.history .year.y2015{background-position:0 -190px}
+.history .year.y2016{background-position:0 -390px}
+.history .year.y2017{background-position:0 -590px}
+.history .year ul{margin-left:40px}
 .history .year li{display:block;border-bottom:1px dotted #cfcfcf;padding:5px 0 3px 5px;font-size:14px}
 .history .year li span{display:inline-block;width:100px;font-weight:bold;color:#666}
 
