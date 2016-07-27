@@ -1,6 +1,7 @@
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 
 *{font-family:'Nanum Gothic',tahoma;color:#333;}
+ul,ol{list-style:none}
 
 /* layout style */
 .header-v6 .navbar-nav > li > a{font-size:15px;font-weight:bold}
@@ -25,7 +26,7 @@
 .submenu a{width:100%;display:block;border-bottom:1px solid #cfcfcf;padding:9px 0 5px 0;font-size:14px;color:#585858;text-indent:7px}
 .submenu a:hover,.submenu a.active{text-decoration:none;border-color:#029ddf;font-weight:bold;color:#096ea5}
 .imgtitle{margin-bottom:7px}
-.subtitle{background:url(../images/icon-subtitle.png) no-repeat;padding:3px 0 5px 15px;font-size:14px !important;font-weight:bold;color:#333}
+.subtitle{background:url(../images/icon-subtitle.png) 0 8px no-repeat;padding:3px 0 5px 14px !important;;font-size:14px !important;font-weight:bold;color:#333}
 
 /* main style */
 .main .space-lg-hor{padding-left:30px;padding-right:30px;font-size:14px;line-height:2}
@@ -67,7 +68,7 @@
 .partnet-item a{background:url(../images/icon-earth.png) 0 1px no-repeat;padding-left:18px;color:#1aaaaa;font-size:11px}
 
 /* business style */
-.biz3 li{font-size:13px;color:#585858}
+.biz3 li{padding-left:14px;font-size:13px;color:#585858}
 
 /* support style */
 .map{height:350px !important}
