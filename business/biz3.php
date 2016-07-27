@@ -31,13 +31,13 @@
 		<table>
 			<tr>
 				<th class="depth1" rowspan="3">구분</th>
-				<th class="depth1" colspan="12">사업기간(개월)</th>
+				<th class="depth1" colspan="12" style="border:1px solid rgba(0,0,0,.2);border-width:0 1px 1px 1px">사업기간(개월)</th>
 				<th class="depth1" rowspan="3">비고</th>
 			</tr>
 			<tr>
-				<th class="depth2" colspan="4">2016년</th>
-				<th class="depth2" colspan="4">2017년</th>
-				<th class="depth2" colspan="4">2018년</th>
+				<th class="depth2" colspan="4" style="border:1px solid rgba(0,0,0,.2);border-width:0 0 1px 1px">2016년</th>
+				<th class="depth2" colspan="4" style="border:1px solid rgba(0,0,0,.2);border-width:0 1px 1px 1px">2017년</th>
+				<th class="depth2" colspan="4" style="border:1px solid rgba(0,0,0,.2);border-width:0 1px 1px 0">2018년</th>
 			</tr>
 			<tr>
 				<th class="depth3">3</th>

@@ -31,7 +31,7 @@ ul,ol{list-style:none;padding:0}
 .subcontent th.depth1{background-color:#1b99cf;}
 .subcontent th.depth2{background-color:#2baac6;}
 .subcontent th.depth3{background-color:#6c8695;font-size:12px;font-weight:nomal}
-.subcontent td{border-bottom:1px solid #cfcfcf}
+.subcontent td{border-bottom:1px solid #cfcfcf;padding:5px}
 .subcontent .tbody-th{background-color:#f0f0f0;padding:4px 10px}
 
 /* main style */
@@ -77,10 +77,12 @@ ul,ol{list-style:none;padding:0}
 .biz3 li{padding-left:14px;font-size:13px;color:#585858}
 .ganttbar{
   background:url(../images/bg-ganttchart.png);
-  display:block;width:100%;height:35px;
+  display:block;width:100%;height:20px;
   -webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;
-  border:1px solid #259fd2;
+  border:1px solid rgba(37, 159, 210, 0.38);
 }
+th.depth3{border:1px solid rgba(0,0,0,.2);border-width:0 0 1px 1px}
+th.depth3:last-child{border-width:0 1px 1px 1px}
 
 /* support style */
 .map{height:350px !important}
