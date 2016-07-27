@@ -24,11 +24,11 @@
 			<li>- 사업위치 : [부안]새만금 관광레저 용지</li>
 			<li>- 사업량 : [부안]1,100억원(약 936,077m², 28.3만평), 계류시설1,000척</li>
 			<li>- 사업내용: 마리나 부지조성 후, 관광시설설치(계류시설/해수워터파크/분양호텔/컨벤션/Aqua Park/아울렛 등)</li>
-			<li>-인허가 및 공사기간 : ’16년 1월~’18년 12월(총 36개월)</li>
+			<li>- 인허가 및 공사기간 : ’16년 1월~’18년 12월(총 36개월)</li>
 		</ul>
 
 		<img src="<?=$imageurl?>imgtitle-02.png" class="imgtitle"/>
-		<!-- <table>
+		<table>
 			<tr>
 				<th rowspan="3">구분</th>
 				<th class="depth1" colspan="12">사업기간(개월)</th>
@@ -55,8 +55,20 @@
 			</tr>
 			<tr>
 				<td>인허가 완료 및 사업착수 준비</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
 			</tr>
-		</table> -->
+		</table>
 	</div>
 	<!-- subcontent end -->
 </div>
