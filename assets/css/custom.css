@@ -63,7 +63,7 @@ ul,ol{list-style:none;padding:0}
 .history .year.y2015{background-position:0 -190px}
 .history .year.y2016{background-position:0 -390px}
 .history .year.y2017{background-position:0 -590px}
-.history .year ul{margin-left:40px}
+.history .year ul{margin-left:80px}
 .history .year li{display:block;border-bottom:1px dotted #cfcfcf;padding:5px 0 3px 5px;font-size:14px}
 .history .year li span{display:inline-block;width:50px;font-weight:bold;color:#666}
 .org.subcontent{text-align:center}
