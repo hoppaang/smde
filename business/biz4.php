@@ -11,7 +11,7 @@
 
 	<!-- subcontent begin -->
 	<div class="subcontent">
-		친환경 에너지 개발
+		친환경 에너지 개발 컨텐츠 개발 중입니다.
 	</div>
 	<!-- subcontent end -->
 </div>
