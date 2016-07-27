@@ -66,6 +66,7 @@
 				<td></td>
 				<td></td>
 				<td></td>
+				<td></td>
 			</tr>
 			<tr class="border-left">
 				<td class="tbody-th">마리나 부지조성 공사 및 분양계획 수립</td>
@@ -90,6 +91,7 @@
 			</tr>
 			<tr class="border-left">
 				<td class="tbody-th">준공계제출및분양실시</td>
+				<td></td>
 				<td></td>
 				<td></td>
 				<td></td>

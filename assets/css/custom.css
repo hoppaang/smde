@@ -83,7 +83,7 @@ ul,ol{list-style:none;padding:0}
 }
 th.depth3{border:1px solid rgba(0,0,0,.07);border-width:0 0 0 1px}
 th.depth3:last-child{border-width:0 1px}
-.border-left{border-left:1px solid rgba(0,0,0,.07);}
+.border-left td{border-left:1px solid rgba(0,0,0,.07);}
 
 /* support style */
 .map{height:350px !important}
