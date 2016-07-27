@@ -117,10 +117,9 @@
 				<h2 class="heading-sm">1차 관광레저 부지조성 [2년간계획]</h2>
 				<p>새만금개발 당위성 설명</p>
 				<ul class="list-unstyled">
-					<li>18.6만평 관광레저용 단지 조성</li>
-					<li>16.48만평 4호방조재 시점 단지 조성</li>
-					<li>18.6만평 관광레저용 단지 조성</li>
-					<li>16.48만평 4호방조재 시점 단지 조성</li>
+					<li>투자규모 1,100억원</li>
+					<li>28.3만평 약 936,077m² 단지 조성</li>
+					<li>계류시설 1,000척</li>
 				</ul>
 			</div>
 		</div>
@@ -161,7 +160,7 @@
 			<label><span class="color-blue">한눈에 보는</span> 새만금개발규모</label>
 			<div class="col-sm-3 col-xs-6">
 				<div class="counters">
-					<span class="counter">1,100</span>억원
+					<span class="counter">5,000</span>억원
 					<h4>MOU규모</h4>
 				</div>
 			</div>
