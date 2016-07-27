@@ -32,14 +32,14 @@
 			>Ship Marina Development Energy.</div>
 
 
-			<a class="ms-layer btn-u" style="left:15px; top:390px" href="#"
+			<a class="ms-layer btn-u" style="left:15px; top:390px" href="<?=$baseurl?>business/biz1.php"
 			data-effect="bottom(40)"
 			data-duration="2000"
 			data-delay="1300"
 			data-ease="easeOutExpo"
 			>사업추진 계획</a>
 
-			<a class="ms-layer btn-u btn-u-dark" style="left:150px; top:390px" href="#"
+			<a class="ms-layer btn-u btn-u-dark" style="left:150px; top:390px" href="<?=$baseurl?>business/biz3.php"
 			data-effect="bottom(40)"
 			data-duration="2000"
 			data-delay="1300"
