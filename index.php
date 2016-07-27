@@ -161,26 +161,26 @@
 			<label><span class="color-blue">한눈에 보는</span> 새만금개발규모</label>
 			<div class="col-sm-3 col-xs-6">
 				<div class="counters">
-					<span class="counter">5,000</span>억원
+					<span class="counter">1,100</span>억원
 					<h4>MOU규모</h4>
 				</div>
 			</div>
 			<div class="col-sm-3 col-xs-6">
 				<div class="counters">
-					<span class="counter">30,298</span>평
+					<span class="counter">283,000</span>평
 					<h4>관광레저용지</h4>
+				</div>
+			</div>
+			<div class="col-sm-3 col-xs-6">
+				<div class="counters">
+					<span class="counter">1,000</span>척
+					<h4>계류시설</h4>
 				</div>
 			</div>
 			<div class="col-sm-3 col-xs-6">
 				<div class="counters">
 					<span class="counter">63,145</span>평
 					<h4>상가시설</h4>
-				</div>
-			</div>
-			<div class="col-sm-3 col-xs-6">
-				<div class="counters">
-					<span class="counter">84,383</span>평
-					<h4>주거시설</h4>
 				</div>
 			</div>
 		</div>

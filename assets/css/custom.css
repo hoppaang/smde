@@ -24,6 +24,8 @@
 .submenu{width:180px;float:left;margin-right:20px;position:absolute}
 .submenu a{width:100%;display:block;border-bottom:1px solid #cfcfcf;padding:9px 0 5px 0;font-size:14px;color:#585858;text-indent:7px}
 .submenu a:hover,.submenu a.active{text-decoration:none;border-color:#029ddf;font-weight:bold;color:#096ea5}
+.imgtitle{margin-bottom:7px}
+.subtitle{background:url(../images/icon-subtitle.png) no-repeat;padding:3px 0 5px 15px;font-size:14px !important;font-weight:bold;color:#333}
 
 /* main style */
 .main .space-lg-hor{padding-left:30px;padding-right:30px;font-size:14px;line-height:2}
@@ -65,6 +67,7 @@
 .partnet-item a{background:url(../images/icon-earth.png) 0 1px no-repeat;padding-left:18px;color:#1aaaaa;font-size:11px}
 
 /* business style */
+.biz3 li{font-size:13px;color:#585858}
 
 /* support style */
 .map{height:350px !important}
