@@ -11,6 +11,7 @@
 
 	<!-- subcontent begin -->
 	<div class="subcontent">
+		뉴스
 	</div>
 	<!-- subcontent end -->
 </div>
