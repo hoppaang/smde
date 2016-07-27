@@ -31,13 +31,13 @@
 		<table>
 			<tr>
 				<th class="depth1" rowspan="3">구분</th>
-				<th class="depth1" colspan="12" style="border:1px solid rgba(0,0,0,.2);border-width:0 1px 1px 1px">사업기간(개월)</th>
+				<th class="depth1" colspan="12" style="border:1px solid rgba(0,0,0,.07);border-width:0 1px 1px 1px">사업기간(개월)</th>
 				<th class="depth1" rowspan="3">비고</th>
 			</tr>
 			<tr>
-				<th class="depth2" colspan="4" style="border:1px solid rgba(0,0,0,.2);border-width:0 0 1px 1px">2016년</th>
-				<th class="depth2" colspan="4" style="border:1px solid rgba(0,0,0,.2);border-width:0 1px 1px 1px">2017년</th>
-				<th class="depth2" colspan="4" style="border:1px solid rgba(0,0,0,.2);border-width:0 1px 1px 0">2018년</th>
+				<th class="depth2" colspan="4" style="border:1px solid rgba(0,0,0,.07);border-width:0 0 1px 1px">2016년</th>
+				<th class="depth2" colspan="4" style="border:1px solid rgba(0,0,0,.07);border-width:0 1px 1px 1px">2017년</th>
+				<th class="depth2" colspan="4" style="border:1px solid rgba(0,0,0,.07);border-width:0 1px 1px 0">2018년</th>
 			</tr>
 			<tr>
 				<th class="depth3">3</th>
@@ -53,7 +53,7 @@
 				<th class="depth3">9</th>
 				<th class="depth3">12 </th>
 			</tr>
-			<tr>
+			<tr class="border-left">
 				<td class="tbody-th">인허가 완료 및 사업착수 준비</td>
 				<td colspan="2"><span class="ganttbar"></span></td>
 				<td></td>
@@ -65,6 +65,41 @@
 				<td></td>
 				<td></td>
 				<td></td>
+				<td></td>
+			</tr>
+			<tr class="border-left">
+				<td class="tbody-th">마리나 부지조성 공사 및 분양계획 수립</td>
+				<td></td>
+				<td colspan="9"><span class="ganttbar"></span></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr class="border-left">
+				<td class="tbody-th">기반시설공사 및 계류시설 설치</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td colspan="4"><span class="ganttbar"></span></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr class="border-left">
+				<td class="tbody-th">준공계제출및분양실시</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td colspan="2"><span class="ganttbar"></span></td>
 				<td></td>
 			</tr>
 		</table>
