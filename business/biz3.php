@@ -55,8 +55,7 @@
 			</tr>
 			<tr>
 				<td>인허가 완료 및 사업착수 준비</td>
-				<td></td>
-				<td></td>
+				<td colspan="2"><span class="ganttbar"></span></td>
 				<td></td>
 				<td></td>
 				<td></td>
