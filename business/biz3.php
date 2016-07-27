@@ -30,7 +30,7 @@
 		<img src="<?=$imageurl?>imgtitle-02.png" class="imgtitle"/>
 		<table>
 			<tr>
-				<th rowspan="3">구분</th>
+				<th class="depth1" rowspan="3">구분</th>
 				<th class="depth1" colspan="12">사업기간(개월)</th>
 				<th class="depth1" rowspan="3">비고</th>
 			</tr>
@@ -54,7 +54,7 @@
 				<th class="depth3">12 </th>
 			</tr>
 			<tr>
-				<td>인허가 완료 및 사업착수 준비</td>
+				<td class="tbody-th">인허가 완료 및 사업착수 준비</td>
 				<td colspan="2"><span class="ganttbar"></span></td>
 				<td></td>
 				<td></td>
